@@ -1,0 +1,5 @@
+/vendor
+/.idea
+/src/go/.idea
+.env
+composer.lock

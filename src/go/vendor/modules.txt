@@ -1,0 +1,12 @@
+# github.com/chai2010/webp v1.1.1
+## explicit; go 1.17
+github.com/chai2010/webp
+# github.com/disintegration/imaging v1.6.2
+## explicit
+github.com/disintegration/imaging
+# golang.org/x/image v0.0.0-20211028202545-6944b10bf410
+## explicit; go 1.12
+golang.org/x/image/bmp
+golang.org/x/image/ccitt
+golang.org/x/image/tiff
+golang.org/x/image/tiff/lzw

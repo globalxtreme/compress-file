@@ -1,0 +1,23 @@
+{
+  "name": "globalxtreme/compress-image",
+  "description": "GlobalXtreme compress image with go and php",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Yuswa",
+      "email": "yuswa98@gmail.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "GlobalXtreme\\CompressImage\\": "src/"
+    }
+  },
+  "require": {
+    "php": ">= 7"
+  },
+  "config": {
+    "sort-packages": true
+  },
+  "minimum-stability": "dev"
+}
