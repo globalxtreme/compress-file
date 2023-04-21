@@ -1,6 +1,6 @@
 {
-  "name": "globalxtreme/compress-image",
-  "description": "GlobalXtreme compress image with go and php",
+  "name": "globalxtreme/compress-file",
+  "description": "GlobalXtreme compress file with go and php",
   "license": "MIT",
   "authors": [
     {

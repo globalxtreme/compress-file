@@ -1,9 +1,9 @@
 GlobalXtreme Compress Image
 ======
 
-[![Version](http://poser.pugx.org/globalxtreme/compress-image/version)](https://packagist.org/packages/globalxtreme/compress-image)
-[![Total Downloads](http://poser.pugx.org/globalxtreme/compress-image/downloads)](https://packagist.org/packages/globalxtreme/compress-image)
-[![License](http://poser.pugx.org/globalxtreme/compress-image/license)](https://packagist.org/packages/globalxtreme/compress-image)
+[![Version](http://poser.pugx.org/globalxtreme/compress-file/version)](https://packagist.org/packages/globalxtreme/compress-file)
+[![Total Downloads](http://poser.pugx.org/globalxtreme/compress-file/downloads)](https://packagist.org/packages/globalxtreme/compress-file)
+[![License](http://poser.pugx.org/globalxtreme/compress-file/license)](https://packagist.org/packages/globalxtreme/compress-file)
 
 ### Install with composer
 
@@ -11,7 +11,7 @@ For install with [Composer](https://getcomposer.org/), simply require the
 latest version of this package.
 
 ```bash
-composer require globalxtreme/compress-image
+composer require globalxtreme/compress-file
 ```
 ##
 #### Server
