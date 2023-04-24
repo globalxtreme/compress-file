@@ -10,7 +10,7 @@
   ],
   "autoload": {
     "psr-4": {
-      "GlobalXtreme\\CompressImage\\": "src/"
+      "GlobalXtreme\\CompressFile\\": "src/"
     }
   },
   "require": {

@@ -1,6 +1,6 @@
 <?php
 
-namespace GlobalXtreme\CompressImage;
+namespace GlobalXtreme\CompressFile;
 
 class GXCompressImage
 {

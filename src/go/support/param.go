@@ -8,3 +8,10 @@ type ParamImage struct {
 	MaxSize     uint   `json:"maxSize"`
 	Quality     int    `json:"quality"`
 }
+
+type ParamVideo struct {
+	FilePath    string `json:"path"`
+	Destination string `json:"destination"`
+	Filename    string `json:"filename"`
+	MaxSize     int    `json:"maxSize"`
+}

@@ -28,16 +28,20 @@ If you install this package in server (ubuntu or centos), you must be add script
 } 
 ```
 
-You can manual run **sh vendor/globalxtreme/compress-file/src/go/install-moduls.sh** from command line if you don't want to add it in **composer.json**
+You can manual run **"sh vendor/globalxtreme/compress-file/src/go/install-moduls.sh"** from command line if you don't want to add it in **"composer.json"**
 ```bash
 sh vendor/globalxtreme/compress-file/src/go/install-moduls.sh
 ```
 
 ##
 #### Local
-If you install this package in local (mac or windows or etc), you can temporarily disable or remove **"sh vendor/globalxtreme/compress-file/src/go/install-moduls.sh"** from **composer.json** and run this script.
+If you install this package in local (mac or windows or etc), you can temporarily disable or remove **"sh vendor/globalxtreme/compress-file/src/go/install-moduls.sh"** from **"composer.json"** and run this script.
 ```bash
 cd vendor/globalxtreme/compress-file/src/go
 
 go build resize.go
 ```
+
+##
+#### Compress Video
+For compress video, you must be install **"ffmpeg"** on your device (mac, windows, linux)
