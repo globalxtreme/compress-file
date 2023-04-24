@@ -43,5 +43,5 @@ go build resize.go
 ```
 
 ##
-#### Compress Video
-For compress video, you must be install **"ffmpeg"** on your device (mac, windows, linux)
+#### Video Compress
+For video compress, you must be install **"ffmpeg"** on your device (mac, windows, linux)
