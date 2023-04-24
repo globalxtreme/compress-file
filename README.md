@@ -1,4 +1,4 @@
-GlobalXtreme Compress Image
+GlobalXtreme Compress File
 ======
 
 [![Version](http://poser.pugx.org/globalxtreme/compress-file/version)](https://packagist.org/packages/globalxtreme/compress-file)
@@ -22,22 +22,22 @@ If you install this package in server (ubuntu or centos), you must be add script
     "post-autoload-dump": [
       "Illuminate\\Foundation\\ComposerScripts::postAutoloadDump", 
       "@php artisan package:discover --ansi",
-      "sh vendor/globalxtreme/compress-image/src/go/install-moduls.sh"
+      "sh vendor/globalxtreme/compress-file/src/go/install-moduls.sh"
     ]
   }
 } 
 ```
 
-You can manual run **sh vendor/globalxtreme/compress-image/src/go/install-moduls.sh** from command line if you don't want to add it in **composer.json**
+You can manual run **sh vendor/globalxtreme/compress-file/src/go/install-moduls.sh** from command line if you don't want to add it in **composer.json**
 ```bash
-sh vendor/globalxtreme/compress-image/src/go/install-moduls.sh
+sh vendor/globalxtreme/compress-file/src/go/install-moduls.sh
 ```
 
 ##
 #### Local
-If you install this package in local (mac or windows or etc), you can temporarily disable or remove **"sh vendor/globalxtreme/compress-image/src/go/install-moduls.sh"** from **composer.json** and run this script.
+If you install this package in local (mac or windows or etc), you can temporarily disable or remove **"sh vendor/globalxtreme/compress-file/src/go/install-moduls.sh"** from **composer.json** and run this script.
 ```bash
-cd vendor/globalxtreme/compress-image/src/go
+cd vendor/globalxtreme/compress-file/src/go
 
 go build resize.go
 ```
