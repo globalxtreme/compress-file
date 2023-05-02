@@ -39,7 +39,8 @@ If you install this package in local (mac or windows or etc), you can temporaril
 ```bash
 cd vendor/globalxtreme/compress-file/src/go
 
-go build resize.go
+go build -o resize-image resizeImage.go
+go build -o resize-video resizeVideo.go
 ```
 
 ##
